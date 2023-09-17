@@ -1,9 +1,9 @@
 package plaindoll;
 
 public class Welcomer{
-	 public string sayHunter() {
+	 public String sayHunter() {
 		return "You dude, this hunter";
-	 }
+	}
 	public String sayWelcome() {
 		return "Welcome home What is it your desire?";
 	}
